@@ -1,6 +1,6 @@
 # 100DaysOfHomeLab
 
-- [x] Day 001 - onprem Confluence upgrade to 7.18.1 [](https://confluence.atlassian.com/doc/confluence-security-advisory-2022-06-02-1130377146.html)
+- [x] Day 001 - onprem Confluence upgrade to 7.18.1 [Critical security issue](https://confluence.atlassian.com/doc/confluence-security-advisory-2022-06-02-1130377146.html)
 - [ ] Day 002 - 
 - [ ] Day 003 - 
 - [ ] Day 004 - 
