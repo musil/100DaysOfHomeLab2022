@@ -4,7 +4,7 @@
 
 - [X] Day 002 - Updating server via ansible
 - [X] Day 003 - installing  [pi-hole](https://pi-hole.net/)
-- [] Day 004 - 
+- [ ] Day 004 - 
 - [ ] Day 005 - 
 - [ ] Day 006 - 
 - [ ] Day 007 - 
