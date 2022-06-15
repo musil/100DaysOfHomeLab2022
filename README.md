@@ -6,9 +6,10 @@
 - [X] Day 003 - creating VM and installing + configuring OS for [pi-hole](https://pi-hole.net/)
 - [X] Day 004 - pi-HOLE installed
 **Installation**
-<p><img alt="pi-hole" src="https://gitlab.dc5.cz/opensource/100daysofhomelab/-/blob/3979d03b47180429c017427ee58e4fdac7bc079f/images/pi-hole-install.png">
+<p><img alt="pi-hole" src="images/pi-hole-install.png"></p>
 **admin web page**
-<p><img alt="pi-hole" src="images/pi-hole.png">
+<p><img alt="pi-hole" src="images/pi-hole.png"></p>
+
 - [ ] Day 005 - 
 - [ ] Day 006 - 
 - [ ] Day 007 - 
