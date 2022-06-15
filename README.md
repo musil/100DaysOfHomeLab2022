@@ -5,6 +5,10 @@
 - [X] Day 002 - Updating server via ansible
 - [X] Day 003 - creating VM and installing + configuring OS for [pi-hole](https://pi-hole.net/)
 - [X] Day 004 - pi-HOLE installed
+**Installation**
+<img alt="pi-hole" src="images/pi-hole-install.png>
+**admin web page**
+<img alt="pi-hole" src="images/pi-hole.png>
 - [ ] Day 005 - 
 - [ ] Day 006 - 
 - [ ] Day 007 - 
