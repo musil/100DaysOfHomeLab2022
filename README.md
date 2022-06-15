@@ -8,7 +8,7 @@
 **Installation**
 <p><img alt="pi-hole" src="https://gitlab.dc5.cz/opensource/100daysofhomelab/-/blob/3979d03b47180429c017427ee58e4fdac7bc079f/images/pi-hole-install.png">
 **admin web page**
-<img alt="pi-hole" src="images/pi-hole.png>
+<p><img alt="pi-hole" src="images/pi-hole.png">
 - [ ] Day 005 - 
 - [ ] Day 006 - 
 - [ ] Day 007 - 
