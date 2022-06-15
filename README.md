@@ -3,8 +3,8 @@
 - [X] Day 001 - onprem Confluence upgrade to 7.18.1 [Critical security issue](https://confluence.atlassian.com/doc/confluence-security-advisory-2022-06-02-1130377146.html)
 
 - [X] Day 002 - Updating server via ansible
-- [X] Day 003 - installing  [pi-hole](https://pi-hole.net/)
-- [ ] Day 004 - 
+- [X] Day 003 - creating VM and installing + configuring OS for [pi-hole](https://pi-hole.net/)
+- [X] Day 004 - pi-HOLE installed
 - [ ] Day 005 - 
 - [ ] Day 006 - 
 - [ ] Day 007 - 
