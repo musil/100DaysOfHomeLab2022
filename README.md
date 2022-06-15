@@ -6,7 +6,7 @@
 - [X] Day 003 - creating VM and installing + configuring OS for [pi-hole](https://pi-hole.net/)
 - [X] Day 004 - pi-HOLE installed
 **Installation**
-<img alt="pi-hole" src="images/pi-hole-install.png>
+<p> <img alt="pi-hole" src="images/pi-hole-install.png> </p>
 **admin web page**
 <img alt="pi-hole" src="images/pi-hole.png>
 - [ ] Day 005 - 
