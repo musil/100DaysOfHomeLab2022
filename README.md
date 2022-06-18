@@ -15,7 +15,7 @@
 <p><img alt="pi-hole" src="images/pi-hole.png"></p>
 
 
-- [ ] Day 005 - 
+- [X] Day 005 - Backing up my wife's computer before re-installation Win10... thanks to @Veeam agent 
 - [ ] Day 006 - 
 - [ ] Day 007 - 
 - [ ] Day 008 - 
