@@ -16,7 +16,7 @@
 
 
 - [X] Day 005 - Backing up wife's computer before re-installation, thanks to Veeam agent
-- [ ] Day 006 - 
+- [X] Day 006 - My new additional storage server will be using BTRFS so time to learn something about it https://www.youtube.com/watch?v=RPO-fS6HQbY
 - [ ] Day 007 - 
 - [ ] Day 008 - 
 - [ ] Day 009 - 
