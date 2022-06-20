@@ -1,4 +1,5 @@
 # 100DaysOfHomeLab
+Twitter: #100DaysOfHomeLab
 
 - [X] Day 001 - onprem Confluence upgrade to 7.18.1 [Critical security issue](https://confluence.atlassian.com/doc/confluence-security-advisory-2022-06-02-1130377146.html)
 
@@ -17,8 +18,8 @@
 
 - [X] Day 005 - Backing up wife's computer before re-installation, thanks to Veeam agent
 - [X] Day 006 - My new additional storage server will be using BTRFS so time to learn something about it https://www.youtube.com/watch?v=RPO-fS6HQbY
-- [ ] Day 007 - 
-- [ ] Day 008 - 
+- [x] Day 007 - Preparing new storage server - 8x8TB HDD + 6x1.6TB Enterprise SSD. 64GB RAM, 2x 10Gbit NI
+- [X] Day 008 - Maintenance on old storage server. Added 18TB disk to old storage server. Just to do backup of backups before migration to new storage :) And of course I have another copy in the Cloud (S3 immutable storage). 
 - [ ] Day 009 - 
 - [ ] Day 010 - 
 - [ ] Day 011 - 
