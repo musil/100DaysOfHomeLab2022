@@ -20,7 +20,7 @@ Twitter: #100DaysOfHomeLab
 - [X] Day 006 - My new additional storage server will be using BTRFS so time to learn something about it https://www.youtube.com/watch?v=RPO-fS6HQbY
 - [x] Day 007 - Preparing new storage server - 8x8TB HDD + 6x1.6TB Enterprise SSD. 64GB RAM, 2x 10Gbit NI
 - [X] Day 008 - Maintenance on old storage server. Added 18TB disk to old storage server. Just to do backup of backups before migration to new storage :) And of course I have another copy in the Cloud (S3 immutable storage). 
-- [ ] Day 009 - 
+- [ ] Day 009 - I resuscitated physical server at the disaster recovery location. high temperature... faulty air-condition. 
 - [ ] Day 010 - 
 - [ ] Day 011 - 
 - [ ] Day 012 - 
