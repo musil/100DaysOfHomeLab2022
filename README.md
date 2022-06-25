@@ -17,14 +17,20 @@ Twitter: #100DaysOfHomeLab
 
 
 - [X] Day 005 - Backing up wife's computer before re-installation, thanks to Veeam agent
+
+<p><img alt="pi-hole" src="images/wifes-PC-restore-veeam.jpg"></p>
+
 - [X] Day 006 - My new additional storage server will be using BTRFS so time to learn something about it https://www.youtube.com/watch?v=RPO-fS6HQbY
 - [x] Day 007 - Preparing new storage server - 8x8TB HDD + 6x1.6TB Enterprise SSD. 64GB RAM, 2x 10Gbit NI
 - [X] Day 008 - Maintenance on old storage server. Added 18TB disk to old storage server. Just to do backup of backups before migration to new storage :) And of course I have another copy in the Cloud (S3 immutable storage). 
 - [X] Day 009 - I resuscitated physical server at the disaster recovery location. high temperature... faulty air-condition. 
 - [X] Day 010 - home notebook upgrade - 512GB NVMe for #VMware Workstation VM's and +32GB RAM (64GB Total)
-- [ ] Day 011 - 
-- [ ] Day 012 - 
-- [ ] Day 013 - 
+- [X] Day 011 - I spent great day  with @vmugcz members discussing not only
+- [X] Day 012 - Preparing installation USB (@Windows  11, @ubuntu  22.04, @CentOS  8Stream) for #homelab new physical clients. 
+- [X] Day 013 - Bring back grafana back to game
+
+<p><img alt="pi-hole" src="images/grafana.png"></p>
+
 - [ ] Day 014 - 
 - [ ] Day 015 - 
 - [ ] Day 016 - 
