@@ -31,7 +31,10 @@ Twitter: #100DaysOfHomeLab
 
 <p><img alt="pi-hole" src="images/grafana.png"></p>
 
-- [ ] Day 014 - 
+- [ ] Day 014 - Uptime Kuma implemented
+
+<p><img alt="pi-hole" src="images/uptime-kuma.png"></p>
+
 - [ ] Day 015 - 
 - [ ] Day 016 - 
 - [ ] Day 017 - 
