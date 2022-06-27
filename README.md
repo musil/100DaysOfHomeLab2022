@@ -35,7 +35,7 @@ Twitter: #100DaysOfHomeLab
 
 <p><img alt="pi-hole" src="images/uptime-kuma.png"></p>
 
-- [ ] Day 015 - 
+- [X] Day 015 - AWX installed and configured
 - [ ] Day 016 - 
 - [ ] Day 017 - 
 - [ ] Day 018 - 
