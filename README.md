@@ -39,7 +39,10 @@ Twitter: #100DaysOfHomeLab
 
 <p><img alt="pi-hole" src="images/awx.png"></p>
 
-- [ ] Day 016 - 
+- [X] Day 016 - Adding more and more servers to the Check MK monitoring
+
+<p><img alt="pi-hole" src="images/check_mk.png"></p>
+
 - [ ] Day 017 - 
 - [ ] Day 018 - 
 - [ ] Day 019 - 
