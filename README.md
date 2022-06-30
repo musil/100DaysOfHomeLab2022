@@ -47,7 +47,11 @@ Twitter: #100DaysOfHomeLab
 
 <p><img alt="pi-hole" src="images/s3-minio.png"></p>
 
-- [ ] Day 018 - 
+- [X] Day 018 - Integrate runner with CI/CD into #homelab GitLab 
+ 
+<p><img alt="pi-hole" src="images/gitlab-cicd.png"></p><br>
+<p><img alt="pi-hole" src="images/runner2004.png"></p>
+
 - [ ] Day 019 - 
 - [ ] Day 020 - 
 - [ ] Day 021 - 
