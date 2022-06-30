@@ -43,7 +43,10 @@ Twitter: #100DaysOfHomeLab
 
 <p><img alt="pi-hole" src="images/check_mk.png"></p>
 
-- [ ] Day 017 - 
+- [X] Day 017 - Upgraded S3 MINIO server in homelab [bug fix](https://github.com/minio/minio/releases/tag/RELEASE.2022-06-25T15-50-16Z)
+
+<p><img alt="pi-hole" src="images/s3-minio.png"></p>
+
 - [ ] Day 018 - 
 - [ ] Day 019 - 
 - [ ] Day 020 - 
