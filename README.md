@@ -52,7 +52,10 @@ Twitter: #100DaysOfHomeLab
 <p><img alt="pi-hole" src="images/gitlab-cicd.png"></p><br>
 <p><img alt="pi-hole" src="images/runner2004.png"></p>
 
-- [ ] Day 019 - 
+- [X] Day 019 - Repairing son’s notebook. There was a bad CMOS battery. More than 25 screws.
+
+<p><img alt="pi-hole" src="images/notebook-cmos.png"></p>
+
 - [ ] Day 020 - 
 - [ ] Day 021 - 
 - [ ] Day 022 - 
