@@ -56,7 +56,10 @@ Twitter: #100DaysOfHomeLab
 
 <p><img alt="pi-hole" src="images/notebook-cmos.png"></p>
 
-- [ ] Day 020 - 
+- [X] Day 020 - Patching and updating firmware, BIOS on my notebook. And also playing with #Terraform 
+
+<p><img alt="pi-hole" src="images/notebook-bios.png"></p>
+
 - [ ] Day 021 - 
 - [ ] Day 022 - 
 - [ ] Day 023 - 
