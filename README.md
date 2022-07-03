@@ -60,7 +60,10 @@ Twitter: #100DaysOfHomeLab
 
 <p><img alt="pi-hole" src="images/notebook-bios.png"></p>
 
-- [ ] Day 021 - 
+- [X] Day 021 - RaspberryPi based Meteostation back in game (temperature, Wind speed, Wind direction) 
+  
+<p><img alt="pi-hole" src="images/rpi-meteo.png"></p>
+
 - [ ] Day 022 - 
 - [ ] Day 023 - 
 - [ ] Day 024 - 
