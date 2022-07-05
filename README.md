@@ -64,8 +64,11 @@ Twitter: #100DaysOfHomeLab
   
 <p><img alt="pi-hole" src="images/rpi-meteo.png"></p>
 
-- [X] Day 022 -Added temporary server to #homelab to migrate data  to new storage server with less impact. As I want to reuse some disks/controllers/10gig NICs. 
-- [ ] Day 023 - 
+- [X] Day 022 - Added temporary server to #homelab to migrate data  to new storage server with less impact. As I want to reuse some disks/controllers/10gig NICs. 
+- [X] Day 023 - (5.7.2022) - I Installed ESXi OS 7.0u3 onto new temporary server and configured networking. Also I configured passthrough PCIe storage controller into VM.
+  
+<p><img alt="pi-hole" src="images/pcie-passthrough.png"></p>
+
 - [ ] Day 024 - 
 - [ ] Day 025 - 
 - [ ] Day 026 - 
