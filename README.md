@@ -64,7 +64,7 @@ Twitter: #100DaysOfHomeLab
   
 <p><img alt="pi-hole" src="images/rpi-meteo.png"></p>
 
-- [ ] Day 022 - 
+- [X] Day 022 -Added temporary server to #homelab to migrate data  to new storage server with less impact. As I want to reuse some disks/controllers/10gig NICs. 
 - [ ] Day 023 - 
 - [ ] Day 024 - 
 - [ ] Day 025 - 
