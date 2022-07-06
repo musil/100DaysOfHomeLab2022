@@ -69,7 +69,11 @@ Twitter: #100DaysOfHomeLab
   
 <p><img alt="pi-hole" src="images/pcie-passthrough.png"></p>
 
-- [ ] Day 024 - 
+- [X] Day 024 - Transcoding my video files to save space on storage by using Tdarr  - https://tdarr.io/
+
+<p><img alt="pi-hole" src="images/tdarr1.png"></p>
+<p><img alt="pi-hole" src="images/tdarr2.png"></p>
+
 - [ ] Day 025 - 
 - [ ] Day 026 - 
 - [ ] Day 027 - 
