@@ -74,6 +74,11 @@ Twitter: #100DaysOfHomeLab
 <p><img alt="pi-hole" src="images/tdarr1.png"></p>
 <p><img alt="pi-hole" src="images/tdarr2.png"></p>
 
+# clean up VM's to save space
+# IPAM update
+# Nearstore2
+# dovezt NUC1
+
 - [ ] Day 025 - 
 - [ ] Day 026 - 
 - [ ] Day 027 - 
