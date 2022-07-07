@@ -81,7 +81,10 @@ Twitter: #100DaysOfHomeLab
 [comment]: <> (Nearstore2)
 -->
 
-- [ ] Day 025 - 
+- [X] Day 025 - Moving data to temp. storage (18TB drive) to free up old storage HW. Once done reuse some "old" HW in new storage. #100DaysOfHomeLab
+
+<p><img alt="pi-hole" src="images/scp-copy-to-18TB_disk.png"></p>
+
 - [ ] Day 026 - 
 - [ ] Day 027 - 
 - [ ] Day 028 - 
