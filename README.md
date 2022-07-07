@@ -74,17 +74,16 @@ Twitter: #100DaysOfHomeLab
 <p><img alt="pi-hole" src="images/tdarr1.png"></p>
 <p><img alt="pi-hole" src="images/tdarr2.png"></p>
 
+- [X] Day 025 - Moving data to temp. storage (18TB drive) to free up old storage HW. Once done reuse some "old" HW in new storage. #100DaysOfHomeLab
+
+<p><img alt="pi-hole" src="images/scp-copy-to-18TB_disk.png"></p>
+
 [comment]: <> (dovezt NUC1)
 <!--
 [comment]: <> (clean up VM's to save space)
 [comment]: <> (IPAM update)
 [comment]: <> (Nearstore2)
 -->
-
-- [X] Day 025 - Moving data to temp. storage (18TB drive) to free up old storage HW. Once done reuse some "old" HW in new storage. #100DaysOfHomeLab
-
-<p><img alt="pi-hole" src="images/scp-copy-to-18TB_disk.png"></p>
-
 - [ ] Day 026 - 
 - [ ] Day 027 - 
 - [ ] Day 028 - 
