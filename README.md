@@ -18,7 +18,7 @@ Twitter: #100DaysOfHomeLab
 
 - [X] Day 005 - Backing up wife's computer before re-installation, thanks to Veeam agent
 
-<p><img alt="pi-hole" src="images/wifes-PC-restore-veeam.jpg"></p>
+<p><img alt="veeam" src="images/wifes-PC-restore-veeam.jpg"></p>
 
 - [X] Day 006 - My new additional storage server will be using BTRFS so time to learn something about it https://www.youtube.com/watch?v=RPO-fS6HQbY
 - [x] Day 007 - Preparing new storage server - 8x8TB HDD + 6x1.6TB Enterprise SSD. 64GB RAM, 2x 10Gbit NI
@@ -29,62 +29,70 @@ Twitter: #100DaysOfHomeLab
 - [X] Day 012 - Preparing installation USB (@Windows  11, @ubuntu  22.04, @CentOS  8Stream) for #homelab new physical clients. 
 - [X] Day 013 - Bring back grafana back to game
 
-<p><img alt="pi-hole" src="images/grafana.png"></p>
+<p><img alt="grafana" src="images/grafana.png"></p>
 
 - [X] Day 014 - Uptime Kuma implemented
 
-<p><img alt="pi-hole" src="images/uptime-kuma.png"></p>
+<p><img alt="kuma" src="images/uptime-kuma.png"></p>
 
 - [X] Day 015 - AWX installed and configured
 
-<p><img alt="pi-hole" src="images/awx.png"></p>
+<p><img alt="awx" src="images/awx.png"></p>
 
 - [X] Day 016 - Adding more and more servers to the Check MK monitoring
 
-<p><img alt="pi-hole" src="images/check_mk.png"></p>
+<p><img alt="check" src="images/check_mk.png"></p>
 
 - [X] Day 017 - Upgraded S3 MINIO server in homelab [bug fix](https://github.com/minio/minio/releases/tag/RELEASE.2022-06-25T15-50-16Z)
 
-<p><img alt="pi-hole" src="images/s3-minio.png"></p>
+<p><img alt="s3-minio" src="images/s3-minio.png"></p>
 
 - [X] Day 018 - Integrate runner with CI/CD into #homelab GitLab 
  
-<p><img alt="pi-hole" src="images/gitlab-cicd.png"></p><br>
-<p><img alt="pi-hole" src="images/runner2004.png"></p>
+<p><img alt="gitlab-cicd" src="images/gitlab-cicd.png"></p><br>
+<p><img alt="runner" src="images/runner2004.png"></p>
 
 - [X] Day 019 - Repairing son’s notebook. There was a bad CMOS battery. More than 25 screws.
 
-<p><img alt="pi-hole" src="images/notebook-cmos.png"></p>
+<p><img alt="notebook-cmos" src="images/notebook-cmos.png"></p>
 
 - [X] Day 020 - Patching and updating firmware, BIOS on my notebook. And also playing with #Terraform 
 
-<p><img alt="pi-hole" src="images/notebook-bios.png"></p>
+<p><img alt="notebook-bios" src="images/notebook-bios.png"></p>
 
 - [X] Day 021 - RaspberryPi based Meteostation back in game (temperature, Wind speed, Wind direction) 
   
-<p><img alt="pi-hole" src="images/rpi-meteo.png"></p>
+<p><img alt="rpi-meteo" src="images/rpi-meteo.png"></p>
 
 - [X] Day 022 - Added temporary server to #homelab to migrate data  to new storage server with less impact. As I want to reuse some disks/controllers/10gig NICs. 
 - [X] Day 023 - (5.7.2022) - I Installed ESXi OS 7.0u3 onto new temporary server and configured networking. Also I configured passthrough PCIe storage controller into VM.
   
-<p><img alt="pi-hole" src="images/pcie-passthrough.png"></p>
+<p><img alt="pcie-passthrough" src="images/pcie-passthrough.png"></p>
 
 - [X] Day 024 - Transcoding my video files to save space on storage by using Tdarr  - https://tdarr.io/
 
-<p><img alt="pi-hole" src="images/tdarr1.png"></p>
-<p><img alt="pi-hole" src="images/tdarr2.png"></p>
+<p><img alt="tdarr1" src="images/tdarr1.png"></p>
+<p><img alt="tdarr2" src="images/tdarr2.png"></p>
 
 - [X] Day 025 - Moving data to temp. storage (18TB drive) to free up old storage HW. Once done reuse some "old" HW in new storage. #100DaysOfHomeLab
 
-<p><img alt="pi-hole" src="images/scp-copy-to-18TB_disk.png"></p>
+<p><img alt="HDD_18TB" src="images/scp-copy-to-18TB_disk.png"></p>
 
 [comment]: <> (dovezt NUC1)
+
+- [X] Day 026 - Unboxing my new camera Logitech Brio, USB-C hub and solar powerbank VIKING W24W. Looking forward to test it :)
+
+<p><img alt="axagon-usb-c" src="images/axagon-usb-c-hub.jpg"></p>
+<p><img alt="logitech-brio" src="images/logitech-brio-4k.jpg"></p>
+<p><img alt="powerbank" src="images/powerbank-viking-w24w.jpg"></p>
+
+
 <!--
 [comment]: <> (clean up VM's to save space)
 [comment]: <> (IPAM update)
 [comment]: <> (Nearstore2)
 -->
-- [ ] Day 026 - 
+
 - [ ] Day 027 - 
 - [ ] Day 028 - 
 - [ ] Day 029 - 
