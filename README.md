@@ -86,14 +86,13 @@ Twitter: #100DaysOfHomeLab
 <p><img alt="logitech-brio" src="images/logitech-brio-4k.jpg"></p>
 <p><img alt="powerbank" src="images/powerbank-viking-w24w.jpg"></p>
 
-
 <!--
 [comment]: <> (clean up VM's to save space)
 [comment]: <> (IPAM update)
 [comment]: <> (Nearstore2)
 -->
 
-- [ ] Day 027 - 
+- [X] Day 027 - Training day - https://app.pluralsight.com/library/courses/microsoft-azure-administrator-manage-storage-accounts/
 - [ ] Day 028 - 
 - [ ] Day 029 - 
 - [ ] Day 030 - 
