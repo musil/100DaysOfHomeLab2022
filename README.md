@@ -15,7 +15,7 @@ Twitter: #100DaysOfHomeLab
 
 <p><img alt="pi-hole" src="images/pi-hole.png"></p>
 
-
+ 
 - [X] Day 005 - Backing up wife's computer before re-installation, thanks to Veeam agent
 
 <p><img alt="veeam" src="images/wifes-PC-restore-veeam.jpg"></p>
@@ -92,7 +92,10 @@ Twitter: #100DaysOfHomeLab
 [comment]: <> (Nearstore2)
 -->
 
-- [X] Day 027 - Training day - https://app.pluralsight.com/library/courses/microsoft-azure-administrator-manage-storage-accounts/
+- [X] Day 027 - Helping friend with networking
+  
+<p><img alt="networking" src="images/networking-sg1016.jpg"></p>
+
 - [ ] Day 028 - 
 - [ ] Day 029 - 
 - [ ] Day 030 - 
