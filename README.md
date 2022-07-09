@@ -86,17 +86,20 @@ Twitter: #100DaysOfHomeLab
 <p><img alt="logitech-brio" src="images/logitech-brio-4k.jpg"></p>
 <p><img alt="powerbank" src="images/powerbank-viking-w24w.jpg"></p>
 
-<!--
-[comment]: <> (clean up VM's to save space)
-[comment]: <> (IPAM update)
-[comment]: <> (Nearstore2)
--->
-
 - [X] Day 027 - Helping friend with networking
   
 <p><img alt="networking" src="images/networking-sg1016.jpg"></p>
 
 - [ ] Day 028 - 
+
+
+<!--
+[comment]: <> (added 2x NVMe into ESXi hosts)
+[comment]: <> (clean up VM's to save space)
+[comment]: <> (IPAM update)
+[comment]: <> (Nearstore2)
+-->
+
 - [ ] Day 029 - 
 - [ ] Day 030 - 
 - [ ] Day 031 - 
