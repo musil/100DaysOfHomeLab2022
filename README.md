@@ -96,7 +96,6 @@ Twitter: #100DaysOfHomeLab
 
 - [ ] Day 029 - 
 <!--
-[comment]: <> (added 2x NVMe into 2xESXi hosts)
 [comment]: <> (clean up VM's to save space)
 [comment]: <> (IPAM update)
 [comment]: <> (Nearstore2)
