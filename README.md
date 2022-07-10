@@ -90,17 +90,20 @@ Twitter: #100DaysOfHomeLab
   
 <p><img alt="networking" src="images/networking-sg1016.jpg"></p>
 
-- [ ] Day 028 - 
+- [X] Day 028 - Added 2x NVMe into ESXi's hosts (Samsung_SSD_970_EVO_500GB).
 
+<p><img alt="datastores nvme" src="images/nvme-datastores.jpg"></p>
 
+- [ ] Day 029 - 
 <!--
-[comment]: <> (added 2x NVMe into ESXi hosts)
+[comment]: <> (added 2x NVMe into 2xESXi hosts)
 [comment]: <> (clean up VM's to save space)
 [comment]: <> (IPAM update)
 [comment]: <> (Nearstore2)
+patching tuesday after 30days
 -->
 
-- [ ] Day 029 - 
+
 - [ ] Day 030 - 
 - [ ] Day 031 - 
 - [ ] Day 032 - 
