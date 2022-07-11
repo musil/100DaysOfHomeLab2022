@@ -100,6 +100,13 @@ Twitter: #100DaysOfHomeLab
 
 
 <!--
+
+Postuj i na 
+- linkedIn
+- Facebook
+- Twitter
+- Instagram
+- VPXD blog
 [comment]: <> (clean up VM's to save space)
 [comment]: <> (IPAM update)
 [comment]: <> (Nearstore2)
