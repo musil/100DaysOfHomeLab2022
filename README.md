@@ -114,7 +114,7 @@ patching tuesday after 30days
 -->
 
 
-- [X] Day 030 - Patching Tuesday :)  so glad that I invest the time to some @ansible automation. The number of servers in #homelab increasing so fast. Time to start thinking about @K8S as the main tool for #homelab services.
+- [X] Day 030 - Patching Tuesday :)  so glad that I invest the time to some @ansible automation. The number of servers in #homelab increasing so fast. Time to start thinking about #K8S as the main tool for #homelab services.
 
 - [ ] Day 031 - 
 - [ ] Day 032 - 
