@@ -94,7 +94,7 @@ Twitter: #100DaysOfHomeLab
 
 <p><img alt="datastores nvme" src="images/nvme-datastores.jpg"></p>
 
-- [ ] Day 029 - Playing with "Platform 9" = Managed Kubernetes plane. Free plan offers management capabilities up to 3 clusters & 20 nodes. Note: you must provide cluster infrastructure by yourself. https://platform9.com/
+- [X] Day 029 - Playing with "Platform 9" = Managed Kubernetes plane. Free plan offers management capabilities up to 3 clusters & 20 nodes. Note: you must provide cluster infrastructure by yourself. https://platform9.com/
 
 <p><img alt="datastores nvme" src="images/platform9-cluster1.png"></p>
 
@@ -114,7 +114,8 @@ patching tuesday after 30days
 -->
 
 
-- [ ] Day 030 - 
+- [X] Day 030 - Patching Tuesday :)  so glad that I invest the time to some @ansible automation. The number of servers in #homelab increasing so fast. Time to start thinking about @K8S as the main tool for #homelab services.
+
 - [ ] Day 031 - 
 - [ ] Day 032 - 
 - [ ] Day 033 - 
