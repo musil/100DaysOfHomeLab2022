@@ -99,6 +99,14 @@ Twitter: #100DaysOfHomeLab
 <p><img alt="datastores nvme" src="images/platform9-cluster1.png"></p>
 
 
+
+- [X] Day 030 - Patching Tuesday :) so glad that I invest the time to some @ansible  automation. The number of servers in #homelab increasing so fast. Time to start thinking about #K8S as the main tool for #homelab services.
+- [X] Day 031 - Time for #vCenter upadte 7.0.3f in #homelab https://docs.vmware.com/en/VMware-vSphere/7.0/rn/vsphere-vcenter-server-70u3f-release-notes.html
+<!-- 13.7.2022 -->
+<p><img alt="datastores nvme" src="images/vcenter-update-703f.png"></p>
+
+- [ ] Day 032 - 
+- [ ] Day 033 - 
 <!--
 
 Postuj i na 
@@ -113,11 +121,6 @@ Postuj i na
 patching tuesday after 30days
 -->
 
-
-- [ ] Day 030 - 
-- [ ] Day 031 - 
-- [ ] Day 032 - 
-- [ ] Day 033 - 
 - [ ] Day 034 - 
 - [ ] Day 035 - 
 - [ ] Day 036 - 
