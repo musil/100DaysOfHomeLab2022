@@ -96,16 +96,19 @@ Twitter: #100DaysOfHomeLab
 
 - [ ] Day 029 - Playing with "Platform 9" = Managed Kubernetes plane. Free plan offers management capabilities up to 3 clusters & 20 nodes. Note: you must provide cluster infrastructure by yourself. https://platform9.com/
 
-<p><img alt="datastores nvme" src="images/platform9-cluster1.png"></p>
+<p><img alt="Platform9 k8s cluster" src="images/platform9-cluster1.png"></p>
 
 
 
 - [X] Day 030 - Patching Tuesday :) so glad that I invest the time to some @ansible  automation. The number of servers in #homelab increasing so fast. Time to start thinking about #K8S as the main tool for #homelab services.
 - [X] Day 031 - Time for #vCenter upadte 7.0.3f in #homelab https://docs.vmware.com/en/VMware-vSphere/7.0/rn/vsphere-vcenter-server-70u3f-release-notes.html
 <!-- 13.7.2022 -->
-<p><img alt="datastores nvme" src="images/vcenter-update-703f.png"></p>
+<p><img alt="vcenter update 7.0.3f" src="images/vcenter-update-703f.png"></p>
 
-- [ ] Day 032 - 
+- [X] Day 032 - IPAM @phpipam upgraded to 1.5.0 
+
+<p><img alt="ipam upgrade" src="images/phpipam-upgrade.png"></p>
+
 - [ ] Day 033 - 
 <!--
 
@@ -119,6 +122,7 @@ Postuj i na
 [comment]: <> (IPAM update)
 [comment]: <> (Nearstore2)
 patching tuesday after 30days
+Swissten stojan iPhone
 -->
 
 - [ ] Day 034 - 
