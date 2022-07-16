@@ -127,8 +127,10 @@ Postuj i na
 - VPXD blog
 [comment]: <> (clean up VM's to save space)
 [comment]: <> (Nearstore2)
-patching tuesday after 30days
+patching tuesday after 30days 12.6,12.7,9.8,6.9
 Swissten stojan iPhone
+PXE more OS options
+
 -->
 - [ ] Day 035 - 
 - [ ] Day 036 - 
