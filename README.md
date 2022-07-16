@@ -113,6 +113,10 @@ Twitter: #100DaysOfHomeLab
 
 <p><img alt="observium" src="images/observium.png"></p>
 
+- [X] Day 034 - Build PXE server for booting over the network. For now with just one OS, but more to come :)
+
+<p><img alt="PXE" src="images/pxe-menu.png"></p>
+
 <!--
 
 Postuj i na 
@@ -126,8 +130,6 @@ Postuj i na
 patching tuesday after 30days
 Swissten stojan iPhone
 -->
-
-- [ ] Day 034 - 
 - [ ] Day 035 - 
 - [ ] Day 036 - 
 - [ ] Day 037 - 
