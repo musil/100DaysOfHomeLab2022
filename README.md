@@ -117,6 +117,14 @@ Twitter: #100DaysOfHomeLab
 
 <p><img alt="PXE" src="images/pxe-menu.png"></p>
 
+- [ ] Day 035 - Extending PXE boot menu..   CentOS 8 and 9 Stream, Ubuntu 18.04, 22.04 LTS and VMware ESXi 7.x
+<!-- 17.7.2022-->
+<p><img alt="PXE" src="images/pxe-boot-dc5.png"></p>
+
+- [ ] Day 036 - 
+- [ ] Day 037 - 
+
+
 <!--
 
 Postuj i na 
@@ -132,9 +140,7 @@ Swissten stojan iPhone
 PXE more OS options
 
 -->
-- [ ] Day 035 - 
-- [ ] Day 036 - 
-- [ ] Day 037 - 
+
 - [ ] Day 038 - 
 - [ ] Day 039 - 
 - [ ] Day 040 - 
