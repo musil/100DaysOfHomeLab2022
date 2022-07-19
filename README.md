@@ -125,8 +125,9 @@ Twitter: #100DaysOfHomeLab
 
 <p><img alt="Wife runs out of space again" src="images/wife's-computer.png"></p>
 
-- [ ] Day 037 - 
+- [X] Day 037 - Attend @MyVMUG Workshop - #Tanzu Community Edition Training #1 @VMwareTCE  with Jeff Butler. Here is his repo: https://github.com/jeffgbutler/TCEWorkshop
 
+<p><img alt="Tanzu Community Edition" src="images/tanzu.png"></p>
 
 <!--
 
