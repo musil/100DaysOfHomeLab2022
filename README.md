@@ -119,9 +119,12 @@ Twitter: #100DaysOfHomeLab
 
 - [ ] Day 035 - Extending PXE boot menu..   CentOS 8 and 9 Stream, Ubuntu 18.04, 22.04 LTS and VMware ESXi 7.x
 <!-- 17.7.2022-->
-<p><img alt="PXE" src="images/pxe-boot-dc5.png"></p>
+<p><img alt="PXE extending" src="images/pxe-boot-dc5.png"></p>
 
-- [ ] Day 036 - 
+- [ ] Day 036 - Maintenance on wife's computer. She is running out of space again :) As usual clean "Download" folder and move photos to shared drive :)
+
+<p><img alt="PXE" src="images/wife's-computer.png"></p>
+
 - [ ] Day 037 - 
 
 
@@ -135,9 +138,9 @@ Postuj i na
 - VPXD blog
 [comment]: <> (clean up VM's to save space)
 [comment]: <> (Nearstore2)
-patching tuesday after 30days 12.6,12.7,9.8,6.9
-Swissten stojan iPhone
-PXE more OS options
+patching servers tuesday after 30days 12.6,12.7,9.8,6.9
+patching notebooks
+Windows 11
 
 -->
 
