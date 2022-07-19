@@ -123,7 +123,7 @@ Twitter: #100DaysOfHomeLab
 
 - [ ] Day 036 - Maintenance on wife's computer. She is running out of space again :) As usual clean "Download" folder and move photos to shared drive :)
 
-<p><img alt="PXE" src="images/wife's-computer.png"></p>
+<p><img alt="Wife runs out of space again" src="images/wife's-computer.png"></p>
 
 - [ ] Day 037 - 
 
