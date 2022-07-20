@@ -129,6 +129,11 @@ Twitter: #100DaysOfHomeLab
 
 <p><img alt="Tanzu Community Edition" src="images/tanzu.png"></p>
 
+- [X] Day 038 - Upgrading PiHole - it's soo simple.. just run "sudo pihole -up"
+
+
+<p><img alt="PiHole update" src="images/pi-hole-update.png"></p>
+
 <!--
 
 Postuj i na 
@@ -145,7 +150,6 @@ Windows 11
 
 -->
 
-- [ ] Day 038 - 
 - [ ] Day 039 - 
 - [ ] Day 040 - 
 - [ ] Day 041 - 
