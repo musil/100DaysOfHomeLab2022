@@ -117,11 +117,11 @@ Twitter: #100DaysOfHomeLab
 
 <p><img alt="PXE" src="images/pxe-menu.png"></p>
 
-- [ ] Day 035 - Extending PXE boot menu..   CentOS 8 and 9 Stream, Ubuntu 18.04, 22.04 LTS and VMware ESXi 7.x
+- [X] Day 035 - Extending PXE boot menu..   CentOS 8 and 9 Stream, Ubuntu 18.04, 22.04 LTS and VMware ESXi 7.x
 <!-- 17.7.2022-->
 <p><img alt="PXE extending" src="images/pxe-boot-dc5.png"></p>
 
-- [ ] Day 036 - Maintenance on wife's computer. She is running out of space again :) As usual clean "Download" folder and move photos to shared drive :)
+- [X] Day 036 - Maintenance on wife's computer. She is running out of space again :) As usual clean "Download" folder and move photos to shared drive :)
 
 <p><img alt="Wife runs out of space again" src="images/wife's-computer.png"></p>
 
@@ -131,9 +131,17 @@ Twitter: #100DaysOfHomeLab
 
 - [X] Day 038 - Upgrading PiHole - it's soo simple.. just run "sudo pihole -up"
 
-
 <p><img alt="PiHole update" src="images/pi-hole-update.png"></p>
 
+- [X] Day 039 - Emby @embyapp  server upgraded to the latest version and purchased Premiere lifetime license.
+  <!--21.7.2022 -->
+  
+<p><img alt="Emby Premiere" src="images/emby-premiere.png"></p>
+
+- [ ] Day 040 - 
+- [ ] Day 041 - 
+- [ ] Day 042 - 
+- [ ] Day 043 - 
 <!--
 
 Postuj i na 
@@ -150,11 +158,6 @@ Windows 11
 
 -->
 
-- [ ] Day 039 - 
-- [ ] Day 040 - 
-- [ ] Day 041 - 
-- [ ] Day 042 - 
-- [ ] Day 043 - 
 - [ ] Day 044 - 
 - [ ] Day 045 - 
 - [ ] Day 046 - 
