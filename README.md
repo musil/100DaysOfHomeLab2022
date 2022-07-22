@@ -94,7 +94,7 @@ Twitter: #100DaysOfHomeLab
 
 <p><img alt="datastores nvme" src="images/nvme-datastores.jpg"></p>
 
-- [ ] Day 029 - Playing with "Platform 9" = Managed Kubernetes plane. Free plan offers management capabilities up to 3 clusters & 20 nodes. Note: you must provide cluster infrastructure by yourself. https://platform9.com/
+- [X] Day 029 - Playing with "Platform 9" = Managed Kubernetes plane. Free plan offers management capabilities up to 3 clusters & 20 nodes. Note: you must provide cluster infrastructure by yourself. https://platform9.com/
 
 <p><img alt="Platform9 k8s cluster" src="images/platform9-cluster1.png"></p>
 
