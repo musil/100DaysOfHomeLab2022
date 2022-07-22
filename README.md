@@ -138,11 +138,17 @@ Twitter: #100DaysOfHomeLab
   
 <p><img alt="Emby Premiere" src="images/emby-premiere.png"></p>
 
-- [ ] Day 040 - 
+- [X] Day 040 - Testing my son's new keyboard :) "CZC.Gaming Guardian, Kailh Red" with red linear switches.  Looks really good and he likes  it, but I prefer brown switches. :) What is your favourite keayboard with which switches?
+
+<p><img alt="Keyboard - day" src="images/keyboard-day.png"></p><br>
+<p><img alt="Keyboard at night" src="images/keyboard-night.png"></p>
+
 - [ ] Day 041 - 
 - [ ] Day 042 - 
 - [ ] Day 043 - 
 <!--
+
+- Speedtest.int.dc5.cz
 
 Postuj i na 
 - linkedIn
