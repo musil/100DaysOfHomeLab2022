@@ -15,7 +15,6 @@ Twitter: #100DaysOfHomeLab
 
 <p><img alt="pi-hole" src="images/pi-hole.png"></p>
 
- 
 - [X] Day 005 - Backing up wife's computer before re-installation, thanks to Veeam agent
 
 <p><img alt="veeam" src="images/wifes-PC-restore-veeam.jpg"></p>
@@ -98,8 +97,6 @@ Twitter: #100DaysOfHomeLab
 
 <p><img alt="Platform9 k8s cluster" src="images/platform9-cluster1.png"></p>
 
-
-
 - [X] Day 030 - Patching Tuesday :) so glad that I invest the time to some @ansible  automation. The number of servers in #homelab increasing so fast. Time to start thinking about #K8S as the main tool for #homelab services.
 - [X] Day 031 - Time for #vCenter upadte 7.0.3f in #homelab https://docs.vmware.com/en/VMware-vSphere/7.0/rn/vsphere-vcenter-server-70u3f-release-notes.html
 <!-- 13.7.2022 -->
@@ -143,7 +140,10 @@ Twitter: #100DaysOfHomeLab
 <p><img alt="Keyboard - day" src="images/keyboard-day.png"></p><br>
 <p><img alt="Keyboard at night" src="images/keyboard-night.png"></p>
 
-- [ ] Day 041 - 
+- [X] Day 041 - vCenter upgrade 7.0.3g Release notes: https://docs.vmware.com/en/VMware-vSphere/7.0/rn/vsphere-vcenter-server-70u3g-release-notes.html
+
+<p><img alt="vCenter upgrade 7.0.3g" src="images/vcenter-update-703g.png"></p><br>
+
 - [ ] Day 042 - 
 - [ ] Day 043 - 
 <!--
