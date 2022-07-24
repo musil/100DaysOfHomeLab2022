@@ -144,11 +144,15 @@ Twitter: #100DaysOfHomeLab
 
 <p><img alt="vCenter upgrade 7.0.3g" src="images/vcenter-update-703g.png"></p><br>
 
-- [ ] Day 042 - 
+- [X] Day 042 - Build my own "Speedtest" web server with LibreSpeed https://github.com/librespeed/speedtest
+- [ ] 
+<p><img alt="Speedtest" src="images/speedtest.png"></p>
+
 - [ ] Day 043 - 
 <!--
 
-- Speedtest.int.dc5.cz
+ - 
+
 
 Postuj i na 
 - linkedIn
