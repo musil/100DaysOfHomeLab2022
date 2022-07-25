@@ -153,10 +153,14 @@ Twitter: #100DaysOfHomeLab
 <p><img alt="Nginx proxy manager" src="images/nginx-proxy.png"></p>
 <p><img alt="Nginx proxy manager" src="images/nginx-proxy2.png"></p>
 
+
+- [ ] Day 044 - 
+- [ ] Day 045 - 
+- [ ] Day 046 - 
+- [ ] Day 047 - 
+
+
 <!--
-
- - 
-
 
 Postuj i na 
 - linkedIn
@@ -170,13 +174,26 @@ patching servers tuesday after 30days 12.6,12.7,9.8,6.9
 patching notebooks
 Windows 11
 Visual Code web - code.int.dc5.cz
+- Logging - syslog (grafana/loki nebo LogInsight)
+- link shortennig "shlink"
+- Harbor registry
+- K8S cluster in HA
+	- rancher
+	- portainer.io
+	- traefik
+- seafile ?
+- tautulli
+- syncthing ?
+- nextcloud
+- unify-video
+- NTP
+- LOADBALANCER
+- Firewall HA
+- Router HA
+- zalozni VPN pres INFOS-WIFI
 
 -->
 
-- [ ] Day 044 - 
-- [ ] Day 045 - 
-- [ ] Day 046 - 
-- [ ] Day 047 - 
 - [ ] Day 048 - 
 - [ ] Day 049 - 
 - [ ] Day 050 - 
