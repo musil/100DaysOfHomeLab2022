@@ -191,6 +191,10 @@ Visual Code web - code.int.dc5.cz
 - Firewall HA
 - Router HA
 - zalozni VPN pres INFOS-WIFI
+https://shields.io/
+https://nip.io/
+https://kind.sigs.k8s.io/
+https://free-for.dev/
 
 -->
 
