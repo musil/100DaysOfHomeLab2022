@@ -169,6 +169,7 @@ Postuj i na
 patching servers tuesday after 30days 12.6,12.7,9.8,6.9
 patching notebooks
 Windows 11
+Visual Code web - code.int.dc5.cz
 
 -->
 
