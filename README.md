@@ -148,7 +148,11 @@ Twitter: #100DaysOfHomeLab
 
 <p><img alt="Speedtest" src="images/speedtest.png"></p>
 
-- [ ] Day 043 - 
+- [X] Day 043 - Configured <a href="https://github.com/NginxProxyManager/nginx-proxy-manager" target="_blank">Nginx proxy manager</a> to publish local services to the internet with Let's encrypt certificates 
+
+<p><img alt="Nginx proxy manager" src="images/nginx-proxy.png"></p>
+<p><img alt="Nginx proxy manager" src="images/nginx-proxy2.png"></p>
+
 <!--
 
  - 
