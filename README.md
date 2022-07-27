@@ -155,7 +155,10 @@ Twitter: #100DaysOfHomeLab
 
 
 - [X] Day 044 - Added 2nd (bakcup) VPN (L2TP server) connection to #homelab over old WIFI internet connection.
-- [ ] Day 045 - 
+- [ ] Day 045 - Playing with containers - wordpress (web+mysql)
+
+<p><img alt="containers-wordpress-mysql" src="images/container-wordpress-mysql.png"></p>
+
 - [ ] Day 046 - 
 - [ ] Day 047 - 
 
