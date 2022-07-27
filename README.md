@@ -154,7 +154,7 @@ Twitter: #100DaysOfHomeLab
 <p><img alt="Nginx proxy manager" src="images/nginx-proxy2.png"></p>
 
 
-- [ ] Day 044 - 
+- [X] Day 044 - Added 2nd (bakcup) VPN (L2TP server) connection to #homelab over old WIFI internet connection.
 - [ ] Day 045 - 
 - [ ] Day 046 - 
 - [ ] Day 047 - 
@@ -190,7 +190,7 @@ Visual Code web - code.int.dc5.cz
 - LOADBALANCER
 - Firewall HA
 - Router HA
-- zalozni VPN pres INFOS-WIFI
+
 https://shields.io/
 https://nip.io/
 https://kind.sigs.k8s.io/
