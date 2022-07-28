@@ -159,7 +159,10 @@ Twitter: #100DaysOfHomeLab
 
 <p><img alt="containers-wordpress-mysql" src="images/container-wordpress-mysql.png"></p>
 
-- [ ] Day 046 - 
+- [X] Day 046 - Continue playing with containers.. this time with @portainerio
+
+ <p><img alt="Portainer" src="images/portainer.png"></p>
+
 - [ ] Day 047 - 
 
 
