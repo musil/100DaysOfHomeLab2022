@@ -163,8 +163,13 @@ Twitter: #100DaysOfHomeLab
 
  <p><img alt="Portainer" src="images/portainer.png"></p>
 
-- [ ] Day 047 - 
+- [X] Day 047 - Labeling time...Labels are ready..
+<!-- 29.7.2022 -->
+<p><img alt="Labels" src="images/labels.png"></p>
 
+- [ ] Day 048 - 
+- [ ] Day 049 - 
+- [ ] Day 050 - 
 
 <!--
 
@@ -204,9 +209,6 @@ https://free-for.dev/
 
 -->
 
-- [ ] Day 048 - 
-- [ ] Day 049 - 
-- [ ] Day 050 - 
 - [ ] Day 051 - 
 - [ ] Day 052 - 
 - [ ] Day 053 - 
