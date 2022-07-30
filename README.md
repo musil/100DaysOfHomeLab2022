@@ -204,6 +204,7 @@ Visual Code web - code.int.dc5.cz
 - LOADBALANCER
 - Firewall HA
 - Router HA
+- WSL upgrade to Ubuntu 22.04 TLS
 
 https://shields.io/
 https://nip.io/
