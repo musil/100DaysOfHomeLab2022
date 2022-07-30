@@ -163,11 +163,14 @@ Twitter: #100DaysOfHomeLab
 
  <p><img alt="Portainer" src="images/portainer.png"></p>
 
-- [X] Day 047 - Labeling time...Labels are ready..
+- [X] Day 047 - Labeling time...Labels are ready.. (happy sysadmin day)
 <!-- 29.7.2022 -->
 <p><img alt="Labels" src="images/labels.png"></p>
 
-- [ ] Day 048 - 
+- [X] Day 048 - Upgrading all my mikrotik routers/AP from version 6.x to 7.4
+
+<p><img alt="Mikrotik upgrade" src="images/mikrotik-upgrade.png"></p>
+
 - [ ] Day 049 - 
 - [ ] Day 050 - 
 
