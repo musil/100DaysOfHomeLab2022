@@ -171,7 +171,10 @@ Twitter: #100DaysOfHomeLab
 
 <p><img alt="Mikrotik upgrade" src="images/mikrotik-upgrade.png"></p>
 
-- [ ] Day 049 - 
+- [X] Day 049 - Playing with "Shields IO" https://shields.io/
+
+<p><img alt="Shields IO" src="images/labels.png"></p>
+
 - [ ] Day 050 - 
 
 <!--
@@ -206,7 +209,7 @@ Visual Code web - code.int.dc5.cz
 - Router HA
 - WSL upgrade to Ubuntu 22.04 TLS
 
-https://shields.io/
+
 https://nip.io/
 https://kind.sigs.k8s.io/
 https://free-for.dev/
