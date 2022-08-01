@@ -175,7 +175,9 @@ Twitter: #100DaysOfHomeLab
 
 <p><img alt="Shields IO" src="images/labels.png"></p>
 
-- [ ] Day 050 - 
+- [X] Day 050 - WSL upgrade to Ubuntu 22.04 TLS
+
+<p><img alt="WSL upgrade" src="images/wsl-ubuntu-2204.png"></p>
 
 <!--
 
@@ -207,7 +209,6 @@ Visual Code web - code.int.dc5.cz
 - LOADBALANCER
 - Firewall HA
 - Router HA
-- WSL upgrade to Ubuntu 22.04 TLS
 
 
 https://nip.io/
