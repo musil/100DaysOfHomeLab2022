@@ -173,7 +173,7 @@ Twitter: #100DaysOfHomeLab
 
 - [X] Day 049 - Playing with "Shields IO" https://shields.io/
 
-<p><img alt="Shields IO" src="images/labels.png"></p>
+<p><img alt="Shields IO" src="images/shields-io.png"></p>
 
 - [X] Day 050 - WSL upgrade to Ubuntu 22.04 TLS
 
