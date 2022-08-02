@@ -179,6 +179,16 @@ Twitter: #100DaysOfHomeLab
 
 <p><img alt="WSL upgrade" src="images/wsl-ubuntu-2204.png"></p>
 
+- [X] Day 051 - Visual Code in web browser - https://github.com/coder/code-server
+
+<p><img alt="Labels" src="images/code-server.png"></p>
+
+- [ ] Day 052 - 
+- [ ] Day 053 - 
+- [ ] Day 054 - 
+- [ ] Day 055 - 
+
+
 <!--
 
 Postuj i na 
@@ -192,7 +202,7 @@ Postuj i na
 patching servers tuesday after 30days 12.6,12.7,9.8,6.9
 patching notebooks
 Windows 11
-Visual Code web - code.int.dc5.cz
+
 - Logging - syslog (grafana/loki nebo LogInsight)
 - link shortennig "shlink"
 - Harbor registry
@@ -217,11 +227,6 @@ https://free-for.dev/
 
 -->
 
-- [ ] Day 051 - 
-- [ ] Day 052 - 
-- [ ] Day 053 - 
-- [ ] Day 054 - 
-- [ ] Day 055 - 
 - [ ] Day 056 - 
 - [ ] Day 057 - 
 - [ ] Day 058 - 
