@@ -183,7 +183,9 @@ Twitter: #100DaysOfHomeLab
 
 <p><img alt="Labels" src="images/code-server.png"></p>
 
-- [ ] Day 052 - 
+- [X] Day 052 - Preparing #homelab for NSX-T 4.0 upgrade https://docs.vmware.com/en/VMware-NSX/4.0/rn/vmware-nsx-4001-release-notes/index.html
+
+
 - [ ] Day 053 - 
 - [ ] Day 054 - 
 - [ ] Day 055 - 
