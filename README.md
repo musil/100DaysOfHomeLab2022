@@ -181,12 +181,14 @@ Twitter: #100DaysOfHomeLab
 
 - [X] Day 051 - Visual Code in web browser - https://github.com/coder/code-server
 
-<p><img alt="Labels" src="images/code-server.png"></p>
+<p><img alt="Visual code web" src="images/code-server.png"></p>
 
 - [X] Day 052 - Preparing #homelab for NSX-T 4.0 upgrade https://docs.vmware.com/en/VMware-NSX/4.0/rn/vmware-nsx-4001-release-notes/index.html
 
+- [X] Day 053 - GitLab update ASAP from 15.1 to 15.2.2-ee.0.el8
 
-- [ ] Day 053 - 
+<p><img alt="GitLab update" src="images/gitlab-update.png"></p>
+
 - [ ] Day 054 - 
 - [ ] Day 055 - 
 
