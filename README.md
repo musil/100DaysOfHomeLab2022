@@ -189,10 +189,18 @@ Twitter: #100DaysOfHomeLab
 
 <p><img alt="GitLab update" src="images/gitlab-update.png"></p>
 
-- [ ] Day 054 - 
-- [ ] Day 055 - 
+- [X] Day 054 & 055- Created #terraform script to deploy @Azure AKS cluster - source code: https://github.com/musil/azure-k8s-small-001 Before you apply you can see costs with @infracost 
 
+<p><img alt="Azure AKS" src="images/azure-aks-cluster.png"></p>
+<p><img alt="Infracost Azure AKS clsuter" src="azure-aks-cluster-infracost.png"></p>
 
+- [ ] Day 056 - 
+- [ ] Day 057 - 
+- [ ] Day 058 - 
+- [ ] Day 059 - 
+- [ ] Day 060 - 
+- [ ] Day 061 - 
+- [ ] 
 <!--
 
 Postuj i na 
@@ -231,12 +239,7 @@ https://free-for.dev/
 
 -->
 
-- [ ] Day 056 - 
-- [ ] Day 057 - 
-- [ ] Day 058 - 
-- [ ] Day 059 - 
-- [ ] Day 060 - 
-- [ ] Day 061 - 
+
 - [ ] Day 062 - 
 - [ ] Day 063 - 
 - [ ] Day 064 - 
