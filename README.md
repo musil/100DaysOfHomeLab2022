@@ -194,7 +194,10 @@ Twitter: #100DaysOfHomeLab
 <p><img alt="Azure AKS" src="images/azure-aks-cluster.png"></p>
 <p><img alt="Infracost Azure AKS clsuter" src="azure-aks-cluster-infracost.png"></p>
 
-- [ ] Day 056 - 
+- [X] Day 056 - Working on moving terraform state file of my #homlab AKS cluster from local storage to Azure Storage Account
+
+<p><img alt="Azure AKS backend git" src="images/azure-aks-backend-git.png"></p>
+
 - [ ] Day 057 - 
 - [ ] Day 058 - 
 - [ ] Day 059 - 
