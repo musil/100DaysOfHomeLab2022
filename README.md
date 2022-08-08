@@ -192,14 +192,19 @@ Twitter: #100DaysOfHomeLab
 - [X] Day 054 & 055- Created #terraform script to deploy @Azure AKS cluster - source code: https://github.com/musil/azure-k8s-small-001 Before you apply you can see costs with @infracost 
 
 <p><img alt="Azure AKS" src="images/azure-aks-cluster.png"></p>
-<p><img alt="Infracost Azure AKS clsuter" src="azure-aks-cluster-infracost.png"></p>
+<p><img alt="Infracost Azure AKS clsuter" src="images/azure-aks-cluster-infracost.png"></p>
 
 - [X] Day 056 - Working on moving terraform state file of my #homlab AKS cluster from local storage to Azure Storage Account
 
 <p><img alt="Azure AKS backend git" src="images/azure-aks-backend-git.png"></p>
 
-- [ ] Day 057 - 
+- [X] Day 057 - Updated Kerio Connect (Mail) server to latest version 9.4.1 patch1
+<!--8.8.2022 -->
+
+<img alt="kerio mailserver" src=images/kerio-connect.png>
+
 - [ ] Day 058 - 
+- [ ] <!-- patching windows & Linux >
 - [ ] Day 059 - 
 - [ ] Day 060 - 
 - [ ] Day 061 - 
@@ -225,6 +230,7 @@ Windows 11
 	- rancher
 	- portainer.io
 	- traefik
+	- argoCD
 - seafile ?
 - tautulli
 - syncthing ?
