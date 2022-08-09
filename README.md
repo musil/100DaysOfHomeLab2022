@@ -203,8 +203,12 @@ Twitter: #100DaysOfHomeLab
 
 <img alt="kerio mailserver" src=images/kerio-connect.png>
 
-- [ ] Day 058 - 
-- [ ] <!-- patching windows & Linux >
+- [X] Day 058 - I just yesterday updated Kerio Connect (mail) server to the version 9.4.1 patch1 and today was released new version 9.4.2 :)
+
+<img alt="kerio mailserver" src=images/kerio-connect2.png>
+
+<!-- patching windows & Linux -->
+
 - [ ] Day 059 - 
 - [ ] Day 060 - 
 - [ ] Day 061 - 
