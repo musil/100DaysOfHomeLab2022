@@ -211,7 +211,7 @@ Twitter: #100DaysOfHomeLab
 
 - [X] Day 059 - Added more vCPU to GitLab server and upgraded GitLab runner Ubuntu 20.04.
 
-<img alt="kerio mailserver" src="images/gitlab-runner.png">
+<img alt="GitLab runner" src="images/gitlab-runner.png">
 
 
 - [ ] Day 060 - 
