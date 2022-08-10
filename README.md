@@ -201,15 +201,19 @@ Twitter: #100DaysOfHomeLab
 - [X] Day 057 - Updated Kerio Connect (Mail) server to latest version 9.4.1 patch1
 <!--8.8.2022 -->
 
-<img alt="kerio mailserver" src=images/kerio-connect.png>
+<img alt="kerio mailserver" src="images/kerio-connect.png">
 
 - [X] Day 058 - I just yesterday updated Kerio Connect (mail) server to the version 9.4.1 patch1 and today was released new version 9.4.2 :)
 
-<img alt="kerio mailserver" src=images/kerio-connect2.png>
+<img alt="kerio mailserver" src="images/kerio-connect2.png">
 
 <!-- patching windows & Linux -->
 
-- [ ] Day 059 - 
+- [X] Day 059 - Added more vCPU to GitLab server and upgraded GitLab runner Ubuntu 20.04.
+
+<img alt="kerio mailserver" src="images/gitlab-runner.png">
+
+
 - [ ] Day 060 - 
 - [ ] Day 061 - 
 - [ ] 
