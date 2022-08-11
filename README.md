@@ -207,16 +207,20 @@ Twitter: #100DaysOfHomeLab
 
 <img alt="kerio mailserver" src="images/kerio-connect2.png">
 
-<!-- patching windows & Linux -->
-
 - [X] Day 059 - Added more vCPU to GitLab server and upgraded GitLab runner Ubuntu 20.04.
 
 <img alt="GitLab runner" src="images/gitlab-runner.png">
 
 
-- [ ] Day 060 - 
+- [X] Day 060 - Your own self hosted #homelab URL Shortener -> http://yourls.org/.
+
+<img alt="URL Shortener" src="images/link_shortener-yourls_org.png">
+
 - [ ] Day 061 - 
-- [ ] 
+
+
+<!-- patching windows & Linux -->
+
 <!--
 
 Postuj i na 
@@ -232,7 +236,6 @@ patching notebooks
 Windows 11
 
 - Logging - syslog (grafana/loki nebo LogInsight)
-- link shortennig "shlink"
 - Harbor registry
 - K8S cluster in HA
 	- rancher
