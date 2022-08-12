@@ -216,7 +216,15 @@ Twitter: #100DaysOfHomeLab
 
 <img alt="URL Shortener" src="images/link_shortener-yourls_org.png">
 
-- [ ] Day 061 - 
+- [X] Day 061 - Preparing VM with CentOS for central logging solution (logs from all Linux VM's) .. most probably GrayLog https://www.graylog.org/ .. any suggestion  of other free logging solution for #homelab?
+
+
+- [ ] Day 062 - 
+<!--https://docs.graylog.org/v1/docs/centos -->
+
+- [ ] Day 063 - 
+- [ ] Day 064 - 
+- [ ] Day 065 - 
 
 
 <!-- patching windows & Linux -->
@@ -260,10 +268,6 @@ https://free-for.dev/
 -->
 
 
-- [ ] Day 062 - 
-- [ ] Day 063 - 
-- [ ] Day 064 - 
-- [ ] Day 065 - 
 - [ ] Day 066 - 
 - [ ] Day 067 - 
 - [ ] Day 068 - 
