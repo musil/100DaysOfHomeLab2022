@@ -223,11 +223,16 @@ Twitter: #100DaysOfHomeLab
 
 <p><img alt="GrayLog" src="images/graylog.png"></p>
 
-- [ ] Day 063 - 
-- [ ] Day 064 - 
+- [X] Day 064 - Reconfiguring test&dev server in #homelab to send syslog messages to GrayLog
+
+<p><img alt="GrayLog Search" src="images/graylog-search.png"></p>
+
 - [ ] Day 065 - 
-
-
+- [ ] Day 066 - 
+- [ ] Day 067 - 
+- [ ] Day 068 - 
+- [ ] Day 069 - 
+-
 <!-- patching windows & Linux -->
 
 <!--
@@ -268,11 +273,6 @@ https://free-for.dev/
 
 -->
 
-
-- [ ] Day 066 - 
-- [ ] Day 067 - 
-- [ ] Day 068 - 
-- [ ] Day 069 - 
 - [ ] Day 070 - 
 - [ ] Day 071 - 
 - [ ] Day 072 - 
