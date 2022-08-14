@@ -219,8 +219,9 @@ Twitter: #100DaysOfHomeLab
 - [X] Day 061 - Preparing VM with CentOS for central logging solution (logs from all Linux VM's) .. most probably GrayLog https://www.graylog.org/ .. any suggestion  of other free logging solution for #homelab?
 
 
-- [ ] Day 062 - 
-<!--https://docs.graylog.org/v1/docs/centos -->
+- [X] Day 062 & 063 - I was working on installing GrayLog. Of course there were some issues "elasticsearch.service: Failed with result 'exit-code'." Due to the default restriction on /tmp "noexec" but Java wanted to execute something there. https://docs.graylog.org/v1/docs/centos
+
+<p><img alt="GrayLog" src="images/graylog.png"></p>
 
 - [ ] Day 063 - 
 - [ ] Day 064 - 
