@@ -228,14 +228,16 @@ Twitter: #100DaysOfHomeLab
 <p><img alt="GrayLog Search" src="images/graylog-search.png"></p>
 
 - [ ] Day 065 - 
+<!-- 16.8.2022 Patching server tuesday-->
+
 - [ ] Day 066 - 
 - [ ] Day 067 - 
 - [ ] Day 068 - 
 - [ ] Day 069 - 
 -
-<!-- patching windows & Linux -->
+<!-- patching windows & Linux
 
-<!--
+<p><img alt="" src="images/.png"></p>
 
 Postuj i na 
 - linkedIn
