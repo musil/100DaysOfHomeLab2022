@@ -227,10 +227,11 @@ Twitter: #100DaysOfHomeLab
 
 <p><img alt="GrayLog Search" src="images/graylog-search.png"></p>
 
-- [ ] Day 065 - 
-<!-- 16.8.2022 Patching server tuesday-->
+- [X] Day 065 - Team Password manager was released. Time to upgrade. https://teampasswordmanager.com/blog/new-release-11-141-247/
+
 
 - [ ] Day 066 - 
+<!-- 16.8.2022 Patching server tuesday-->
 - [ ] Day 067 - 
 - [ ] Day 068 - 
 - [ ] Day 069 - 
