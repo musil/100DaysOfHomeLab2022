@@ -233,7 +233,10 @@ Twitter: #100DaysOfHomeLab
 - [X] Day 066 - Monthly Windows servers patching
 <p><img alt="Windows update 2022-08" src="images/windows-update-2022-08"></p>
 
-- [ ] Day 067 - 
+- [X] Day 067 - Developed QR code generator. Insipred by this link https://www.knowband.com/blog/tips/generate-qr-code-using-php/ .
+
+<p><img alt="Generate QR code" src="images/generate-qrcode-php.png"></p>
+
 - [ ] Day 068 - 
 - [ ] Day 069 - 
 -
