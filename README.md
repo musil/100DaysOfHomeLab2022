@@ -237,7 +237,8 @@ Twitter: #100DaysOfHomeLab
 
 <p><img alt="Generate QR code" src="images/generate-qrcode-php.png"></p>
 
-- [ ] Day 068 - 
+- [X] Day 068 & 069 - Patching all the windows 10 clients at home (3 desktop, 5x NTB) + driver updates. Most of the windows clients are ready to upgrade to windows 11. But still not sure if I should do the upgrade.. It's stable/ready enough for trouble free operation?
+
 - [ ] Day 069 - 
 -
 <!-- patching windows & Linux
