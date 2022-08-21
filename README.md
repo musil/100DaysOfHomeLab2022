@@ -239,8 +239,10 @@ Twitter: #100DaysOfHomeLab
 
 - [X] Day 068 & 069 - Patching all the windows 10 clients at home (3 desktop, 5x NTB) + driver updates. Most of the windows clients are ready to upgrade to windows 11. But still not sure if I should do the upgrade.. It's stable/ready enough for trouble free operation?
 
-- [ ] Day 069 - 
--
+- [X] Day 069 - Upgrading Veeam Backup & Replication upgrade to 11.0.1.1261 (20220302) Cumulative Patches - Veeam KB: https://www.veeam.com/kb4245?ad=in-text-link in P20220302 are only security patches CVE-2022-26500,CVE-2022-26501,CVE-2022-26504,CVE-2022-26503 #100DaysOfHomeLab
+
+<p><img alt="Veeam cumulative patches 20220302" src="images/veeam_20220302.png"></p>
+
 <!-- patching windows & Linux
 
 <p><img alt="" src="images/.png"></p>
