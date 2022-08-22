@@ -243,6 +243,15 @@ Twitter: #100DaysOfHomeLab
 
 <p><img alt="Veeam cumulative patches 20220302" src="images/veeam_20220302.png"></p>
 
+- [X] Day 070 - Patching all the linux systems in #homelab. Almost 40VM's :)
+
+<p><img alt="Patching linux" src="images/linux-update.png"></p>
+
+- [ ] Day 071 - 
+- [ ] Day 072 - 
+- [ ] Day 073 - 
+- [ ] Day 074 - 
+
 <!-- patching windows & Linux
 
 <p><img alt="" src="images/.png"></p>
@@ -283,11 +292,7 @@ https://free-for.dev/
 
 -->
 
-- [ ] Day 070 - 
-- [ ] Day 071 - 
-- [ ] Day 072 - 
-- [ ] Day 073 - 
-- [ ] Day 074 - 
+
 - [ ] Day 075 - 
 - [ ] Day 076 - 
 - [ ] Day 077 - 
