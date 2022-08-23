@@ -247,7 +247,8 @@ Twitter: #100DaysOfHomeLab
 
 <p><img alt="Patching linux" src="images/linux-update.png"></p>
 
-- [ ] Day 071 - 
+- [X] Day 071 - Increasing the number of #homelab DNS servers to a total of 4 (2 in another location) #100DaysOfHomeLab
+
 - [ ] Day 072 - 
 - [ ] Day 073 - 
 - [ ] Day 074 - 
