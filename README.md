@@ -239,22 +239,26 @@ Twitter: #100DaysOfHomeLab
 
 - [X] Day 068 & 069 - Patching all the windows 10 clients at home (3 desktop, 5x NTB) + driver updates. Most of the windows clients are ready to upgrade to windows 11. But still not sure if I should do the upgrade.. It's stable/ready enough for trouble free operation?
 
-- [X] Day 069 - Upgrading Veeam Backup & Replication upgrade to 11.0.1.1261 (20220302) Cumulative Patches - Veeam KB: https://www.veeam.com/kb4245?ad=in-text-link in P20220302 are only security patches CVE-2022-26500,CVE-2022-26501,CVE-2022-26504,CVE-2022-26503
+- [X] Day 070 - Upgrading Veeam Backup & Replication upgrade to 11.0.1.1261 (20220302) Cumulative Patches - Veeam KB: https://www.veeam.com/kb4245?ad=in-text-link in P20220302 are only security patches CVE-2022-26500,CVE-2022-26501,CVE-2022-26504,CVE-2022-26503
 
 <p><img alt="Veeam cumulative patches 20220302" src="images/veeam_20220302.png"></p>
 
-- [X] Day 070 - Patching all the linux systems in #homelab. Almost 40VM's :)
+- [X] Day 071 - Patching all the linux systems in #homelab. Almost 40VM's :)
 
 <p><img alt="Patching linux" src="images/linux-update.png"></p>
 
-- [X] Day 071 - Increasing the number of #homelab DNS servers to a total of 4 (2 in another location) 
-- [X] Day 072 - Uptime Kuma upgrated to the latest version 1.17.1 from version 1.11.3 and added new features like "TLS certificate expiry" more in release notes: https:// https://github.com/louislam/uptime-kuma/releases
-  
+- [X] Day 072 - Increasing the number of #homelab DNS servers to a total of 4 (2 in another location) 
+- [X] Day 073 - Uptime Kuma upgrated to the latest version 1.17.1 from version 1.11.3 and added new features like "TLS certificate expiry" more in release notes: https:// https://github.com/louislam/uptime-kuma/releases
+<!-- 24.8.2022 -->  
 <p><img alt="Upgrade Uptime Kuma" src="images/uptime-kuma-update.png"></p>
 
-- [ ] Day 073 - 
 - [ ] Day 074 - 
-
+- [ ] Day 075 - 
+- [ ] Day 076 - 
+- [ ] Day 077 - 
+- [ ] Day 078 - 
+- [ ] Day 079 - 
+- [ ] Day 080 - 
 <!-- patching windows & Linux
 
 <p><img alt="" src="images/.png"></p>
@@ -296,12 +300,7 @@ https://free-for.dev/
 -->
 
 
-- [ ] Day 075 - 
-- [ ] Day 076 - 
-- [ ] Day 077 - 
-- [ ] Day 078 - 
-- [ ] Day 079 - 
-- [ ] Day 080 - 
+
 - [ ] Day 081 - 
 - [ ] Day 082 - 
 - [ ] Day 083 - 
