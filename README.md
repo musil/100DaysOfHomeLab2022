@@ -247,9 +247,11 @@ Twitter: #100DaysOfHomeLab
 
 <p><img alt="Patching linux" src="images/linux-update.png"></p>
 
-- [X] Day 071 - Increasing the number of #homelab DNS servers to a total of 4 (2 in another location) #100DaysOfHomeLab
+- [X] Day 071 - Increasing the number of #homelab DNS servers to a total of 4 (2 in another location) 
+- [X] Day 072 - Uptime Kuma upgrated to the latest version 1.17.1 from version 1.11.3 and added new features like "TLS certificate expiry" more in release notes: https:// https://github.com/louislam/uptime-kuma/releases
+  
+<p><img alt="Upgrade Uptime Kuma" src="images/uptime-kuma-update.png"></p>
 
-- [ ] Day 072 - 
 - [ ] Day 073 - 
 - [ ] Day 074 - 
 
