@@ -252,7 +252,10 @@ Twitter: #100DaysOfHomeLab
 <!-- 24.8.2022 -->  
 <p><img alt="Upgrade Uptime Kuma" src="images/uptime-kuma-update.png"></p>
 
-- [ ] Day 074 - 
+- [X] Day 074 - Upgrading GitLab to the latest version 15.3.1-ee.0.el8 #100DaysOfHomeLab
+
+<p><img alt="" src="images/gitlab-update2.png"></p>
+
 - [ ] Day 075 - 
 - [ ] Day 076 - 
 - [ ] Day 077 - 
