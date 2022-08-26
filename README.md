@@ -256,7 +256,9 @@ Twitter: #100DaysOfHomeLab
 
 <p><img alt="" src="images/gitlab-update2.png"></p>
 
-- [ ] Day 075 - 
+- [X] Day 075 - Updating Team Password Manager to the latest version 11.141.247. More info: https://teampasswordmanager.com/blog/two-patches-for-11-141-247/
+
+
 - [ ] Day 076 - 
 - [ ] Day 077 - 
 - [ ] Day 078 - 
