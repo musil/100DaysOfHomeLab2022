@@ -254,12 +254,15 @@ Twitter: #100DaysOfHomeLab
 
 - [X] Day 074 - Upgrading GitLab to the latest version 15.3.1-ee.0.el8 #100DaysOfHomeLab
 
-<p><img alt="" src="images/gitlab-update2.png"></p>
+<p><img alt="GitLab update 2" src="images/gitlab-update2.png"></p>
 
 - [X] Day 075 - Updating Team Password Manager to the latest version 11.141.247. More info: https://teampasswordmanager.com/blog/two-patches-for-11-141-247/
 
 
-- [ ] Day 076 - 
+- [X] Day 076 - Harbor registry @project_harbor installed on top of the photon @vmwarephoton  VM in my #homelab. #100DaysOfHomeLab https://goharbor.io/ https://github.com/goharbor/harbor 
+
+<p><img alt="Harbor registrz" src="images/harbor-registry.png"></p>
+
 - [ ] Day 077 - 
 - [ ] Day 078 - 
 - [ ] Day 079 - 
@@ -279,16 +282,24 @@ Postuj i na
 patching servers tuesday after 30days 12.6,12.7,9.8,6.9
 patching notebooks
 Windows 11
-
+Homeassistant
+	Grocy
+	Crowdsec
+Sonarr
+Prometheus
+Jackett
+zoutubedl
+pzLoad
+Radarr
+Bitwarden
+MongoDB
 - Logging - syslog (grafana/loki nebo LogInsight)
-- Harbor registry
 - K8S cluster in HA
 	- rancher
 	- portainer.io
 	- traefik
 	- argoCD
 - seafile ?
-- tautulli
 - syncthing ?
 - nextcloud
 - unify-video
