@@ -265,6 +265,7 @@ Twitter: #100DaysOfHomeLab
 
 - [X] Day 077 - Upgrading VMware NSX-T 3.2 to NSX 4.0 on top of the #homelab vSphere 7.0.3. More info: https://docs.vmware.com/en/VMware-NSX/4.0/upgrade/GUID-E04242D7-EF09-4601-8906-3FA77FBB06BD.html I plan also to do a fresh install :) #100DaysOfHomeLab
 
+<!-- nedele 28.8.2022 -->
 <p><img alt="Upgrading NSX-T 3.2 to NSX 4.0" src="images/nsx-upgrade.png"></p>
 
 - [ ] Day 078 - 
