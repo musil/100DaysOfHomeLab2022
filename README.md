@@ -268,8 +268,14 @@ Twitter: #100DaysOfHomeLab
 <!-- nedele 28.8.2022 -->
 <p><img alt="Upgrading NSX-T 3.2 to NSX 4.0" src="images/nsx-upgrade.png"></p>
 
-- [ ] Day 078 - 
-- [ ] Day 079 - 
+- [X] Day 078 - Continue with upgrading to NSX 4.0. Edges and ESXi hosts are upgraded. Last one is NSX Manager
+
+<p><img alt="Upgrading NSX-T Manager 3.2 to NSX 4.0" src="images/nsx-upgrade2.png"></p>
+
+- [X] Day 079 - Upgrade to @vmwarensx 4.0 completed. Exploring new features .. especially IPv6
+
+<p><img alt="Exploring NSX 4.0" src="images/nsx-upgrade3.png"></p>
+
 - [ ] Day 080 - 
 <!-- patching windows & Linux
 
