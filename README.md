@@ -276,7 +276,10 @@ Twitter: #100DaysOfHomeLab
 
 <p><img alt="Exploring NSX 4.0" src="images/nsx-upgrade3.png"></p>
 
-- [ ] Day 080 - 
+- [X] Day 080 - To save electricity in #homelab. Testing #vSphere power management DPM. https://docs.vmware.com/en/VMware-vSphere/7.0/com.vmware.vsphere.resmgmt.doc/GUID-051ED894-10C3-4D80-AE52-A518FB973875.html #100DaysOfHomeLab
+
+<p><img alt="vSphere 7 DPM power management" src="images/vsphere7dpm.png"></p>
+
 <!-- patching windows & Linux
 
 <p><img alt="" src="images/.png"></p>
