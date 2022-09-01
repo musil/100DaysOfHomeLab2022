@@ -280,8 +280,10 @@ Twitter: #100DaysOfHomeLab
 
 <p><img alt="vSphere 7 DPM power management" src="images/vsphere7dpm.png"></p>
 
+- [X] Day 081 - Testing "starship" cross-shell prompt  https://starship.rs/ nice to see git repo name and branch in the prompt :) And upgraded Infracost to 0.10.11 #homelab #100DaysOfHomeLab
 
-- [ ] Day 081 - Testing "starship" cross-shell prompt  https://starship.rs/ and upgraded Infracost to 0.10.11 #homelab #100DaysOfHomeLab
+<p><img alt="Starship cross-shell prompt" src="images/starship-prompt.png"></p>
+
 - [ ] Day 082 - 
 - [ ] Day 083 - 
 - [ ] Day 084 - 
