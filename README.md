@@ -280,6 +280,19 @@ Twitter: #100DaysOfHomeLab
 
 <p><img alt="vSphere 7 DPM power management" src="images/vsphere7dpm.png"></p>
 
+
+- [ ] Day 081 - Testing "starship" cross-shell prompt  https://starship.rs/ and upgraded Infracost to 0.10.11 #homelab #100DaysOfHomeLab
+- [ ] Day 082 - 
+- [ ] Day 083 - 
+- [ ] Day 084 - 
+- [ ] Day 085 - 
+- [ ] Day 086 - 
+- [ ] Day 087 - 
+- [ ] Day 088 - 
+
+
+
+
 <!-- patching windows & Linux
 
 <p><img alt="" src="images/.png"></p>
@@ -365,14 +378,6 @@ https://free-for.dev/
 
 
 
-- [ ] Day 081 - 
-- [ ] Day 082 - 
-- [ ] Day 083 - 
-- [ ] Day 084 - 
-- [ ] Day 085 - 
-- [ ] Day 086 - 
-- [ ] Day 087 - 
-- [ ] Day 088 - 
 - [ ] Day 089 - 
 - [ ] Day 090 - 
 - [ ] Day 091 - 
