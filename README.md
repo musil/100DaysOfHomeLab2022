@@ -284,7 +284,7 @@ Twitter: #100DaysOfHomeLab
 
 <p><img alt="Starship cross-shell prompt" src="images/starship-prompt.png"></p>
 
-- [ ] Day 082 - 
+- [ ] Day 082 - Testing CODEBEAT -> https://codebeat.co code quality tool. It's free for open source projects. #100DaysOfHomeLab
 <!-- https://github.com/Lissy93/dashy -->
 - [ ] Day 083 - 
 - [ ] Day 084 - 
