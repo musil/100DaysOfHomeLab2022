@@ -284,9 +284,12 @@ Twitter: #100DaysOfHomeLab
 
 <p><img alt="Starship cross-shell prompt" src="images/starship-prompt.png"></p>
 
-- [ ] Day 082 - Testing CODEBEAT -> https://codebeat.co code quality tool. It's free for open source projects. #100DaysOfHomeLab
-<!-- https://github.com/Lissy93/dashy -->
-- [ ] Day 083 - 
+- [X] Day 082 - Testing CODEBEAT -> https://codebeat.co code quality tool. It's free for open source projects. #100DaysOfHomeLab
+
+- [X] Day 083 - I just start testing #homeassistant https://www.home-assistant.io/ . And looks like I will keep it :) #100DaysOfHomeLab
+
+<p><img alt="Home assistant" src="images/home-assistant.png"></p>
+
 - [ ] Day 084 - 
 - [ ] Day 085 - 
 - [ ] Day 086 - 
@@ -294,7 +297,7 @@ Twitter: #100DaysOfHomeLab
 - [ ] Day 088 - 
 
 
-
+<!-- https://github.com/Lissy93/dashy -->
 
 <!-- patching windows & Linux
 
