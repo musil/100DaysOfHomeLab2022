@@ -290,8 +290,14 @@ Twitter: #100DaysOfHomeLab
 
 <p><img alt="Home assistant" src="images/home-assistant.png"></p>
 
-- [ ] Day 084 - 
+- [X] Day 084 - Giving a chance to Windows 11 at least for a 2 weeks as a VM. We will see how it works. #100DaysOfHomeLab
+<!-- nedele 4.9.2022 -->
+
+<p><img alt="Windows 11 VM" src="images/windows11vm.png"></p>
+
 - [ ] Day 085 - 
+<!-- Minio update-->
+
 - [ ] Day 086 - 
 - [ ] Day 087 - 
 - [ ] Day 088 - 
