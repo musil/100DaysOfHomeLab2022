@@ -295,7 +295,7 @@ Twitter: #100DaysOfHomeLab
 
 <p><img alt="Windows 11 VM" src="images/windows11vm.png"></p>
 
-- [ ] Day 085 - 
+- [ ] Day 085 - Updating S3 Minio #homelab https://min.io/download#/linux  #100DaysOfHomeLab
 <!-- Minio update-->
 
 - [ ] Day 086 - 
