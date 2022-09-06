@@ -295,10 +295,13 @@ Twitter: #100DaysOfHomeLab
 
 <p><img alt="Windows 11 VM" src="images/windows11vm.png"></p>
 
-- [ ] Day 085 - Updating S3 Minio #homelab https://min.io/download#/linux  #100DaysOfHomeLab
+- [X] Day 085 - Updating S3 Minio #homelab https://min.io/download#/linux  #100DaysOfHomeLab
 <!-- Minio update-->
 
-- [ ] Day 086 - 
+- [X] Day 086 - I am giving a chance for a while to MySQL workbench as a tool for #homelab mysql database administration instead of PhpMyAdmin. #100DaysOfHomeLab https://www.mysql.com/products/workbench/
+
+<p><img alt="MySQL Workbench" src="images/mysql-workbench.png"></p>
+
 - [ ] Day 087 - 
 - [ ] Day 088 - 
 
@@ -317,12 +320,11 @@ Postuj i na
 - VPXD blog
 [comment]: <> (clean up VM's to save space)
 [comment]: <> (Nearstore2)
-patching servers tuesday after 30days 12.6,12.7,9.8,6.9
+patching servers tuesday after 30days 12.6,12.7,9.8,13.9
 patching notebooks
 Windows 11
 https://www.kasmweb.com/cloud-personal
 https://starship.rs/
-Homeassistant
 	Grocy
 	Crowdsec
 Sonarr
@@ -360,11 +362,9 @@ pidio-cells
 calibre
 scrutiny
 rsnapshot
- 
-mysql-workbench
-phpldapadmin
+     phpldapadmin
 chevereto
-
+https://meshcentral.com/info/
 MongoDB
 - Logging - syslog (grafana/loki nebo LogInsight)
 - K8S cluster in HA
