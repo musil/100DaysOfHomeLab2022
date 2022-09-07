@@ -302,7 +302,8 @@ Twitter: #100DaysOfHomeLab
 
 <p><img alt="MySQL Workbench" src="images/mysql-workbench.png"></p>
 
-- [ ] Day 087 - 
+- [X] Day 087 - iSCSI troubleshooting between "My friend Windows server -> INETERNET <- TRUENAS" Till yesterday it works. #100DaysOfHomeLab
+
 - [ ] Day 088 - 
 
 
