@@ -306,6 +306,8 @@ Twitter: #100DaysOfHomeLab
 
 - [X] Day 088,89,90 - Raspberry Pi weekend. Need to prepare 2x Raspberry Pi 3B+, 1x Raspberry Pi Zero W, Raspberry Pi 4. Add cameras on the Raspberry Pi, RetroPi  #100DaysOfHomeLab
 
+<p><img alt="Raspberry Pi weekend" src="images/raspberry_pi_weekend.png"></p>
+
 
 <!-- https://github.com/Lissy93/dashy -->
 
