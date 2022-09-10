@@ -304,7 +304,7 @@ Twitter: #100DaysOfHomeLab
 
 - [X] Day 087 - iSCSI troubleshooting between "My friend Windows server -> INETERNET <- TRUENAS" Till yesterday it works. #100DaysOfHomeLab
 
-- [ ] Day 088 - 
+- [X] Day 088,89,90 - Raspberry Pi weekend. Need to prepare 2x Raspberry Pi 3B+, 1x Raspberry Pi Zero W, Raspberry Pi 4. Add cameras on the Raspberry Pi, RetroPi  #100DaysOfHomeLab
 
 
 <!-- https://github.com/Lissy93/dashy -->
@@ -325,7 +325,6 @@ patching servers tuesday after 30days 12.6,12.7,9.8,13.9
 patching notebooks
 Windows 11
 https://www.kasmweb.com/cloud-personal
-https://starship.rs/
 	Grocy
 	Crowdsec
 Sonarr
