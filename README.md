@@ -308,7 +308,10 @@ Twitter: #100DaysOfHomeLab
 
 <p><img alt="Raspberry Pi weekend" src="images/raspberry_pi_weekend.png"></p>
 
+- [X] Day 091 - After preparing Raspberry Pi over weekend. Today I have first photos :) "raspistill -v -o  picture.jpg -n -rot 180 -ex night" #100DaysOfHomeLab
 
+
+- [ ] Day 092 - 
 <!-- https://github.com/Lissy93/dashy -->
 
 <!-- patching windows & Linux
@@ -340,7 +343,6 @@ Machinaris
 Photoprism
 ipfs
 netdata
-nextcloud
 beets
 remmina
 hammond
@@ -392,10 +394,7 @@ https://free-for.dev/
 
 
 
-- [ ] Day 089 - 
-- [ ] Day 090 - 
-- [ ] Day 091 - 
-- [ ] Day 092 - 
+
 - [ ] Day 093 - 
 - [ ] Day 094 - 
 - [ ] Day 095 - 
