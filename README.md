@@ -311,7 +311,12 @@ Twitter: #100DaysOfHomeLab
 - [X] Day 091 - After preparing Raspberry Pi over weekend. Today I have first photos :) "raspistill -v -o  picture.jpg -n -rot 180 -ex night" #100DaysOfHomeLab
 
 
-- [ ] Day 092 - 
+- [X] Day 092,093 - Deploying and tweeking HasteBin   https://hastebin.com/about.md server https://github.com/toptal/haste-server and client https://github.com/toptal/haste-client #100DaysOfHomeLab
+
+<p><img alt="Haste" src="images/haste-server.png"></p>
+
+<!-- nedele 12,13.9.2022 -->
+
 <!-- https://github.com/Lissy93/dashy -->
 
 <!-- patching windows & Linux
