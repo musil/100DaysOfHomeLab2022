@@ -315,6 +315,21 @@ Twitter: #100DaysOfHomeLab
 
 <p><img alt="Haste" src="images/haste-server.png"></p>
 
+- [X] Day 093 - Installed Ubuntu VM and installed Unifi VIDEO NVR server #100DaysOfHomeLab
+
+<p><img alt="Unifi video NVR" src="images/unifi-video.png"></p>
+
+- [X] Day 094 - Configuring Unifi Video NVR server and adding camera. #100DaysOfHomeLab
+
+- [ ] Day 095 - 
+- [ ] Day 096 - 
+- [ ] Day 097 - 
+- [ ] Day 098 - 
+- [ ] Day 099 - 
+- [ ] Day 100 -
+<!-- 21.9.2022 -->
+
+
 <!-- nedele 12,13.9.2022 -->
 
 <!-- https://github.com/Lissy93/dashy -->
@@ -400,11 +415,3 @@ https://free-for.dev/
 
 
 
-- [ ] Day 093 - 
-- [ ] Day 094 - 
-- [ ] Day 095 - 
-- [ ] Day 096 - 
-- [ ] Day 097 - 
-- [ ] Day 098 - 
-- [ ] Day 099 - 
-- [ ] Day 100 - 
