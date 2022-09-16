@@ -320,8 +320,13 @@ Twitter: #100DaysOfHomeLab
 <p><img alt="Unifi video NVR" src="images/unifi-video.png"></p>
 
 - [X] Day 094 - Configuring Unifi Video NVR server and adding camera. #100DaysOfHomeLab
+<!--15.9.2022 -->
 
-- [ ] Day 095 - 
+
+- [X] Day 095 - Installing Sonarr - https://sonarr.tv/ as a docker container on top of the #homelab #100DaysOfHomeLab
+
+<p><img alt="Sonarr" src="images/sonarr.png"></p>
+
 - [ ] Day 096 - 
 - [ ] Day 097 - 
 - [ ] Day 098 - 
@@ -352,7 +357,6 @@ Windows 11
 https://www.kasmweb.com/cloud-personal
 	Grocy
 	Crowdsec
-Sonarr
 Prometheus
 Jackett
 zoutubedl
@@ -399,7 +403,6 @@ MongoDB
 - seafile ?
 - syncthing ?
 - nextcloud
-- unify-video
 - NTP
 - LOADBALANCER
 - Firewall HA
