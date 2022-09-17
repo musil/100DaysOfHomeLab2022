@@ -327,7 +327,10 @@ Twitter: #100DaysOfHomeLab
 
 <p><img alt="Sonarr" src="images/sonarr.png"></p>
 
-- [ ] Day 096 - 
+- [X] Day 096 - Reconfigured storage server with 2x 10Gbit intel X540 NICs. And added 18TB HDD (total ~66TB HDD + some SSD's) #100DaysOfHomeLab
+
+<p><img alt="NearStore2 upgrade" src="images/nearstore2-upgrade.png"></p>
+
 - [ ] Day 097 - 
 - [ ] Day 098 - 
 - [ ] Day 099 - 
