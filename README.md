@@ -331,7 +331,10 @@ Twitter: #100DaysOfHomeLab
 
 <p><img alt="NearStore2 upgrade" src="images/nearstore2-upgrade.png"></p>
 
-- [ ] Day 097 - 
+- [X] Day 097 - Configured iSCSI target on the storage server for my notebook and for my friend. Both LUN's will be used as backup targets.  #100DaysOfHomeLab
+
+<p><img alt="iSCSI targetCLI" src="images/iscsi-targetcli.png"></p>
+
 - [ ] Day 098 - 
 - [ ] Day 099 - 
 - [ ] Day 100 -
