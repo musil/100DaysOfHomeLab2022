@@ -335,7 +335,10 @@ Twitter: #100DaysOfHomeLab
 
 <p><img alt="iSCSI targetCLI" src="images/iscsi-targetcli.png"></p>
 
-- [ ] Day 098 - 
+- [X] Day 098 - Created SMB share for my wife's PC backup, on #homelab storage server. #100DaysOfHomeLab
+
+<p><img alt="SMB share config" src="images/smb-share-config.png"></p>
+
 - [ ] Day 099 - 
 - [ ] Day 100 -
 <!-- 21.9.2022 -->
