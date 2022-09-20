@@ -339,7 +339,10 @@ Twitter: #100DaysOfHomeLab
 
 <p><img alt="SMB share config" src="images/smb-share-config.png"></p>
 
-- [ ] Day 099 - 
+- [X] Day 099 - Prometheus is ready for monitoring #homelab #100DaysOfHomeLab https://prometheus.io/docs/prometheus/latest/getting_started/
+
+<p><img alt="Prometheus" src="images/prometheus-info.png"></p>
+
 - [ ] Day 100 -
 <!-- 21.9.2022 -->
 
