@@ -343,7 +343,10 @@ Twitter: #100DaysOfHomeLab
 
 <p><img alt="Prometheus" src="images/prometheus-info.png"></p>
 
-- [ ] Day 100 -
+- [X] Day 100 - Testing YouTube-dl to download videos from different sites: http://ytdl-org.github.io/youtube-dl/supportedsites.html  - Homepage:  https://youtube-dl.org/ #100DaysOfHomeLab
+
+<p><img alt="YouTube-dl" src="images/youtube-dl.png"></p>
+
 <!-- 21.9.2022 -->
 
 
@@ -371,8 +374,8 @@ https://www.kasmweb.com/cloud-personal
 	Crowdsec
 Prometheus
 Jackett
-zoutubedl
-pzLoad
+youtube-dl
+pyLoad
 Radarr
 Bitwarden
 Machinaris
